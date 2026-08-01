@@ -1,0 +1,6 @@
+{
+  "name": "NOIRÉ ATELIER",
+  "description": "Interactive 3D Luxury Commerce & Architectural Editorial Experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
